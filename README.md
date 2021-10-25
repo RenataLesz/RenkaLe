@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RenkaLe
 - 👀 I’m interested in programming and Data Engineer (Data Scientist)
-- 🌱 I’m currently learning Java, Python, Machine Learning
+- 🌱 I’m currently learning Java, Python, Machine Learning, C/C++, Web Development, SQL, PHP, 
 - 💞️ I’m looking to collaborate on ... don't know yet ;-)
 - 📫 How to reach me renata.leszczynskaa@gmail.com
 
